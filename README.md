@@ -64,4 +64,42 @@ This perfect performance was further confirmed by the **Classification Report** 
 * **Matplotlib & Seaborn**
 * **Scikit-learn**
 * **Environment**: Google Colaboratory
+
+## 🚀 How to Run
+
+There are two primary ways to run this project: through Google Colaboratory or by setting it up on your local machine.
+
+### Option 1: Running in Google Colaboratory (Recommended)
+
+This is the easiest way to run the project as it requires no local installation of Python or its libraries.
+
+* Open [Google Colaboratory](https://colab.research.google.com/).
+* Click on `File` > `Open notebook`.
+* In the pop-up window, select the **`GitHub`** tab.
+* Paste the repository URL in the search bar: `https://github.com/TWO-ONE-21/iris-classification-project`
+* Press Enter, and select the notebook file `notebooks/iris.ipynb` from the list.
+* Once the notebook is open, run the cells sequentially from top to bottom by pressing `Shift + Enter`.
+
+### Option 2: Running on a Local Machine
+
+If you prefer to run the project locally, you need to have Python and Jupyter Notebook installed.
+
+* **Clone the repository:**
+    ```bash
+    git clone https://github.com/TWO-ONE-21/iris-classification-project.git
+    ```
+* **Navigate to the project directory:**
+    ```bash
+    cd iris-classification-project
+    ```
+* **Install the required libraries:**
+    ```bash
+    pip install pandas numpy scikit-learn matplotlib seaborn jupyter
+    ```
+* **Start Jupyter Notebook**
+    ```bash
+    jupyter notebook
+    ```
+* In the Jupyter interface that opens in your browser, navigate to the `notebooks` folder and open the notebook file `iris.ipynb`.
+
 ---
