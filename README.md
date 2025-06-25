@@ -18,17 +18,17 @@ The project utilizes the classic 'Iris dataset' available in the Scikit-learn li
 
 The project workflow includes the following key stages:
 
- **Environment Setup**: Importing all necessary Python libraries for the entire workflow, including Pandas, NumPy, Matplotlib, Seaborn, and Scikit-learn.
+* **Environment Setup** <br>Importing all necessary Python libraries for the entire workflow, including Pandas, NumPy, Matplotlib, Seaborn, and Scikit-learn.
 
- **Data Loading and Inspection**: Loading the dataset and converting it into a Pandas DataFrame for easier manipulation and analysis. Initial inspection was done using `.head()`, `.info()`, and `.describe()` to understand the data structure.
+* **Data Loading and Inspection** <br>Loading the dataset and converting it into a Pandas DataFrame for easier manipulation and analysis. Initial inspection was done using `.head()`, `.info()`, and `.describe()` to understand the data structure.
 
- **Exploratory Data Analysis (EDA)**: Visualizing the data to identify patterns, relationships between features, and the most discriminating features among the classes.
+* **Exploratory Data Analysis (EDA)** <br>Visualizing the data to identify patterns, relationships between features, and the most discriminating features among the classes.
 
- **Data Preprocessing**: Separating the features (X) from the target variable (y) and splitting the dataset into a training set (80%) and a testing set (20%).
+* **Data Preprocessing** <br>Separating the features (X) from the target variable (y) and splitting the dataset into a training set (80%) and a testing set (20%).
 
- **Model Building and Training**: Implementing the K-Nearest Neighbors (KNN) classification algorithm, initialized with K=3. The model was then trained using the training data.
+* **Model Building and Training** <br>Implementing the K-Nearest Neighbors (KNN) classification algorithm, initialized with K=3. The model was then trained using the training data.
 
- **Model Evaluation**: Measuring the performance of the trained model on the unseen test data.
+* **Model Evaluation** <br>Measuring the performance of the trained model on the unseen test data.
 
 ## 🏆 Results and Performance
 
