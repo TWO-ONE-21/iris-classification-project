@@ -102,4 +102,12 @@ If you prefer to run the project locally, you need to have Python and Jupyter No
     ```
 * In the Jupyter interface that opens in your browser, navigate to the `notebooks` folder and open the notebook file `iris.ipynb`.
 
+## ⚖️ License
+
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+
+## 🧑‍💻 Author
+
+-   **Ardo Rianda** - *Initial Work*
+
 ---
